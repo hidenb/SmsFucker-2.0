@@ -1,4 +1,4 @@
-# smsfucker-2.0
+# SmsFucker-2.0
 Termux
 
 $ apt install git 
