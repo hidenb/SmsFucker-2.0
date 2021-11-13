@@ -8,9 +8,7 @@ $ apt install python
 
 $ apt install python2 
 
-$ pip install requests 
-
-$ pip2 install requests
+$ pip install requests && pip2 install requests
 
 $ git clone https://github.com/hidenb/smsfucker-2.0
 
