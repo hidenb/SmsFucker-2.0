@@ -11,7 +11,7 @@ $ apt install python2
 
 $ pip install requests && pip2 install requests
 
-$ git clone https://github.com/hidenb/smsfucker-2.0
+$ git clone https://github.com/hidenb/SmsFucker-2.0
 
 $ ls
 
